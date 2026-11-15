@@ -1,0 +1,46 @@
+[
+  {
+    "vendor_name": "CloudScale Hosting Pvt Ltd",
+    "invoice_number": "INV-2026-0841",
+    "invoice_date": "2026-11-10",
+    "line_items": [
+      {
+        "description": "Dedicated Compute Instances (x4)",
+        "quantity": 4,
+        "unit_price": 120.00,
+        "total": 480.00
+      },
+      {
+        "description": "Managed PostgreSQL Storage (500GB)",
+        "quantity": 1,
+        "unit_price": 65.00,
+        "total": 65.00
+      }
+    ],
+    "subtotal": 545.00,
+    "tax": 98.10,
+    "grand_total": 643.10
+  },
+  {
+    "vendor_name": "Metro Office Supplies",
+    "invoice_number": "MOS-99214",
+    "invoice_date": "2026-11-12",
+    "line_items": [
+      {
+        "description": "Ergonomic Desk Chairs",
+        "quantity": 2,
+        "unit_price": 210.00,
+        "total": 420.00
+      },
+      {
+        "description": "USB-C Docking Stations",
+        "quantity": 3,
+        "unit_price": 85.00,
+        "total": 255.00
+      }
+    ],
+    "subtotal": 675.00,
+    "tax": 121.50,
+    "grand_total": 796.50
+  }
+]
